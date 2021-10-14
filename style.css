@@ -1,6 +1,6 @@
 body{
     margin: 0;
-    background-color: black;
+    background-color: rgb(31, 30, 30);
 }
 .main-game{
     height: 100vh;
@@ -15,12 +15,12 @@ body{
     grid-template-areas: 'verde vermelho' 
     'amarelo azul';
     grid-gap: 10px;
-    border: 1px solid #ffff;
+    border: 8px solid #ffff;
     background-color: #ffff;
     border-radius:  100%;
     margin-top:  10%;
-    width: 700px;
-    height: 700px;
+    width: 400px;
+    height: 400px;
 }
 
 .blue{
